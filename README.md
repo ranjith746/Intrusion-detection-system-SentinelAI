@@ -1,7 +1,5 @@
 # SentinelAI - AI-Powered Security Dashboard
 
-![SentinelAI](https://picsum.photos/seed/readme/1200/300?data-ai-hint=cyber%20security)
-
 > Advanced, web-based platform designed to enhance network security operations by leveraging the power of generative artificial intelligence.
 
 ## About The Project
