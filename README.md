@@ -1,6 +1,6 @@
 # SentinelAI - AI-Powered Security Dashboard
 
-![image alt](https://github.com/ranjith746/Intrusion-detection-system-SentinelAI/blob/main/ids%20image.png?raw=true)
+![image alt](https://github.com/ranjith746/Intrusion-detection-system-SentinelAI/blob/main/sentinelAI_image.png?raw=true)
 
 > Advanced, web-based platform designed to enhance network security operations by leveraging the power of generative artificial intelligence.
 
